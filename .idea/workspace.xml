@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82af719b-838a-45ec-a8c0-b15ed7d68c9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Access modifier/AccessModifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/AccessModifier/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/MainCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/manager/IManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/manager/ProductManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayList/src/view/MenuProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN1/.idea/BaiTap_Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN1/common/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN1/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN1/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN1/out/production/BaiTap_Module2/.idea/BaiTap_Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoStudent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoStudent/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/Database/Employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/src/SaveData/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/src/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/src/service/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/src/service/IEmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeManager/src/view/MainView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/CircleAndCylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/CircleAndCylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/CircleAndCylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/CircleAndCylinder/UML/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point2D_Ponit3D/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point2D_Ponit3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point2D_Ponit3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point2D_Ponit3D/UML/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point_MoveablePoint/MoveablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point_MoveablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeThua/Point_MoveablePoint/UML/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/controller/InstructorProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/controller/StudentProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/model/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Management system/src/service/impl/InstructorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/manager/IManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/manager/SchoolManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/manager/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/menu/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/menu/SchoolMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/menu/StudentMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/model/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManagerStudent/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/Max2Chieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mang/gop_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Repository/impl/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Repository/impl/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/Service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mo_Hinh_MVC/src/View/MainView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_2/src/ss2_loop/bai_tap/AddElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_2/src/ss2_loop/bai_tap/Max2Chieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_2/src/ss2_loop/bai_tap/delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Model_2/src/ss2_loop/bai_tap/gop_mang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/MainFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/MainStopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/common/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/repository/impl/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/repository/impl/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-mvc/src/view/MainView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final_project/src/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final_project/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final_project/src/model/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_Month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Month_Year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ptb1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ptb2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ToanTu.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2mvjHtQtVN2IR3Z7ywTIls9707r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/BTVN_CodeGym/BaiTap_Module2/Abstract Class & Interface",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82af719b-838a-45ec-a8c0-b15ed7d68c9d" name="Changes" comment="" />
+      <created>1727963860335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727963860335</updated>
+      <workItem from="1727963861894" duration="990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
